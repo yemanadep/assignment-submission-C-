@@ -1,4 +1,4 @@
-// Q1- 
+// Q1- Time Complexity of below code
 
 a =1
 b =2
@@ -9,7 +9,7 @@ while(b<=n){
 }
 // Q1 Ans - O(n^1/2)
 
-// Q2-
+// Q2- Time Complexity of below code
 
 for(i=n;i>=n;i=i/3){
   cout<<"1+i"
